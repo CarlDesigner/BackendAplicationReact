@@ -1,0 +1,19 @@
+{
+  "name": "backend.aplication.react",
+  "version": "0.9.0",
+  "description": "Backend Aplication React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlDesigner/Backend.Aplication.React.git"
+  },
+  "author": "CarlDesigner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlDesigner/Backend.Aplication.React/issues"
+  },
+  "homepage": "https://github.com/CarlDesigner/Backend.Aplication.React#readme"
+}
